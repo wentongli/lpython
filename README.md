@@ -1,3 +1,3 @@
 # lpython - learning python
 
-set up test1
+set up test2
